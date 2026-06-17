@@ -10,12 +10,12 @@ OpenJDK Runtime Environment (build 21+35-2513)
 There is a Javadocs file called allclasses-index.html in both Module-4 and Module-5. There are a few differences between the two files. There you will find some comments about the implementation.
 
 DEPLOYMENT INSTRUCTIONS:
-1 Download either module-4 java files OR Module-5 java files onto your computer and take note of where you place them. Copy the path of the files so you can later paste it.
-2 In a windows machine goto the command line interface (cmd). I ususally open up cmd as an administrator, but this is not strictly required.
-3 in cmd, type in "cd" and then a space. Finally type <ctrl-v> to paste in the path of your files. Press "ENTER"
+Download either module-4 java files OR Module-5 java files onto your computer and take note of where you place them. Copy the path of the files so you can later paste it.
+In a windows machine goto the command line interface (cmd). I ususally open up cmd as an administrator, but this is not strictly required.
+in cmd, type in "cd" and then a space. Finally type <ctrl-v> to paste in the path of your files. Press "ENTER"
 This will move you to the directory where the module 4 files are.
-4 Next compile the .java files with this command:
+Next compile the .java files with this command:
 javac -d bin *.java
-5 Finally, to run the application use this command:
+Finally, to run the application use this command:
 java -cp bin NotifySystem.java
-This will rune module 4 or module 5.
+This will run module 4 or module 5.
