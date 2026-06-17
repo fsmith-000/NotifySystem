@@ -18,4 +18,4 @@ Next compile the .java files with this command:
 javac -d bin *.java
 Finally, to run the application use this command:
 java -cp bin NotifySystem.java
-This will rune module 4 or module 5.
+This will run module 4 or module 5.
