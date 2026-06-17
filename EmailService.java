@@ -1,4 +1,3 @@
-
 import java.util.ArrayList;
 /**
  * This class implements the send method from the NotificationMedium interface.

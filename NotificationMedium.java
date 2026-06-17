@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 /**
- * This interface requires both the EmailService class and the SMSService
- * class to implement the method below.
+ * (New Information): This interface is implemented by the EmailService class, 
+ * the SMSService class and the WhatsAppService class.
  * @author Fred Smith
  */
 public interface NotificationMedium {
